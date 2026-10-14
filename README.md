@@ -37,4 +37,4 @@ O envio de e-mail é **simulado via log**, como no projeto original; o relatóri
 
 Execute `./gradlew test` ou `gradlew.bat test` para executar testes automatizados de CRUD, validação e restrição de exclusão.
 
-**Ambiente desta entrega:** testes não puderam ser executados aqui porque a distribuição do Gradle não estava disponível localmente e o download externo falhou. É necessário executar os testes em uma máquina com acesso às dependências antes da submissão final.
+
